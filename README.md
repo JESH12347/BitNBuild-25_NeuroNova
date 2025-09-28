@@ -27,6 +27,11 @@ Our **Join Community** feature lets customers in the same office or locality joi
 
 This is the core innovation that transforms **meals into communities**.  
 
+![app2](https://github.com/user-attachments/assets/0ec8f180-1dca-475e-b17f-5c3f737acee4)
+
+![app3](https://github.com/user-attachments/assets/2affe6b2-56c5-4d3f-b507-d45b7b2e9028)
+
+
 ---
 
 ## 🔧 Features
@@ -58,7 +63,10 @@ This is the core innovation that transforms **meals into communities**.
 ### 📊 Business Efficiency
 - Bulk deliveries = lower costs  
 - Higher profit margins for vendors  
-- Smoother operations  
+- Smoother operations
+- 
+![app4](https://github.com/user-attachments/assets/8c13cba8-3cee-40f8-ade0-0e20628a391a)
+![app5](https://github.com/user-attachments/assets/8517cc25-0a38-4844-9575-632c01397fb1)
 
 ---
 
